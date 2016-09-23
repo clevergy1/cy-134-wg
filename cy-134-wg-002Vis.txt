@@ -1,0 +1,9 @@
+1484053
+c:\programdata\codesys v2.3\compile\visu_ini.xml
+c:\programdata\codesys v2.3\compile\alm_ini.xml
+c:\program files (x86)\wago software\codesys v2.3\visu\minml.jar
+c:\program files (x86)\wago software\codesys v2.3\visu\webvisu.jar
+c:\program files (x86)\wago software\codesys v2.3\visu\webvisu.htm
+c:\programdata\codesys v2.3\compile\plc_visu_xml.zip
+c:\programdata\codesys v2.3\compile\vis_anz_xml.zip
+c:\programdata\codesys v2.3\compile\cy-13vis.txt
