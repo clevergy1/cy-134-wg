@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<wagoDevice deviceType="" copyright="" formatVersion="0.4" creationTool="WagoCfgEngine" creationDateTime="2016-09-22T16:18:38+02:00" creationUtcDateTime="2016-09-22T16:18:38" userVersion="" userID="" userComment="" persistency="1">
+<wagoDevice deviceType="" copyright="" formatVersion="0.4" creationTool="WagoCfgEngine" creationDateTime="2017-04-11T16:56:52+02:00" creationUtcDateTime="2017-04-11T16:56:52" userVersion="" userID="" userComment="" persistency="1">
   <objLst>
     <obj id="020B154F">
       <p id="75">
@@ -50,6 +50,9 @@
     <obj id="00400008">
       <p id="22" />
     </obj>
+    <obj id="00400009">
+      <p id="22" />
+    </obj>
     <obj id="00C00008" />
     <obj id="00C00009" />
     <obj id="00800000">
@@ -66,7 +69,7 @@
       <p id="77">
         <n t="112" v="BsB_MulCab4_Cab4QE2P_AllCom" />
       </p>
-      <p id="85" m="21,4,1CD5" />
+      <p id="85" />
     </obj>
     <obj id="01400001">
       <p id="75">
@@ -86,7 +89,7 @@
       <p id="77">
         <n t="112" v="Mult_MulC_QGGF02_AllCom" />
       </p>
-      <p id="85" m="21,4,1899" />
+      <p id="85" />
     </obj>
     <obj id="01400003">
       <p id="75">
@@ -95,13 +98,13 @@
       <p id="77">
         <n t="112" v="Mult_QGBT02_AllCom" />
       </p>
-      <p id="85" m="21,4,189A" />
+      <p id="85" />
     </obj>
     <obj id="01400004">
       <p id="77">
         <n t="112" v="Mult_QGBT03_AllCom" />
       </p>
-      <p id="85" m="21,4,189B" />
+      <p id="85" />
     </obj>
     <obj id="01400005">
       <p id="75">
@@ -243,7 +246,7 @@
         <n t="112" v="Mult_MulC_QEGF01_Itm" />
       </p>
       <p id="85" m="21,4,18B0">
-        <n t="64" v="1234" />
+        <n t="64" v="564" />
       </p>
       <p id="22" />
     </obj>
@@ -1957,9 +1960,6 @@
         <n t="112" v="Mult1_QGBT26_Itm" />
       </p>
       <p id="85" m="21,4,1AD0" />
-      <p id="22" />
-    </obj>
-    <obj id="00400009">
       <p id="22" />
     </obj>
     <obj id="008000D2">
